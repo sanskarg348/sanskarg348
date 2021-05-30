@@ -16,6 +16,7 @@ Skills: PYTHON / JS / REACT / C++ / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarg348)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanskarg348&show_icons=true&count_private=true)  
+![![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanskarg348)](https://github.com/anuraghazra/github-readme-stats)
+ 
 
 ![Profile views](https://gpvc.arturio.dev/sanskarg348)  
