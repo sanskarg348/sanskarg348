@@ -4,7 +4,7 @@
 
 I do software and web development, I enjoy learning new programming languages and frameworks like React and Node, I also enjoy complex Algorithms and Data structures using Python
 
-Skills: PYTHON / JS / REACT / C++ / HTML / CSS
+
 
 - 🌱 I’m currently learning PYTHON AND MACHINE LEARNING 
 - ⚡ Fun fact: Won't find me on social media 
@@ -20,13 +20,10 @@ Skills: PYTHON / JS / REACT / C++ / HTML / CSS
 ### Skills 💻
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![JQUERY](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![NODEJS](	https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![EXPRESSJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MONGODB](	https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FLUTTER](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![PYTHON](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ![Profile views](https://gpvc.arturio.dev/sanskarg348)  
