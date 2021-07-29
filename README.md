@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Sanskar
 #### I am a software developer
-![Screenshot](banner.PNG)
+![Screenshot](../prtfolio/banner.PNG)
 
 I do software and web development, I enjoy learning new programming languages and frameworks like React and Node, I also enjoy complex Algorithms and Data structures using Python
 
