@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Sanskar
 #### I am a software developer
-![I am a software developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<img src = 'https://drive.google.com/file/d/1lXT-GSK7bEsu1LwxvPxIujmxKLfF9LPQ/view?usp=sharing', alt='sanskar Banner', height = '100'>
 
 I do software and web development, I enjoy learning new programming languages and frameworks like React and Node, I also enjoy complex Algorithms and Data structures using Python
 
